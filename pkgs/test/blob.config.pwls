@@ -1,2 +1,0 @@
-pwls.directory = 'C:\hellotestworld'
-pwls.after = cmd.run("echo hi")

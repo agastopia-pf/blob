@@ -1,0 +1,6 @@
+pwls.directory = 'C:\hellotestworld'
+pwls.after = cmd.run("echo hi")
+
+pwls.Versions = {
+ v1 = @!/v1 -- a folder which contains everything and its own pwls @! meaning its parent directory and @!! means parentparent directory and so o
+}
